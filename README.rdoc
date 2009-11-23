@@ -1,6 +1,8 @@
-= ruby_beer_helper
+= ruby beer helper
 
-after wearing myself out after making a batch of beer, i thought this would be a good idea.  maybe i'm just really tired.  the recipes folder is where the action is
+after wearing myself out after making a batch of beer, i thought this would be a good idea.  maybe i'm just really tired.
+
+the recipes folder is where the action is
 
 
 == Copyright

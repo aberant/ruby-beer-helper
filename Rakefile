@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{TODO: one-line summary of your gem}
     gem.description = %Q{TODO: longer description of your gem}
     gem.email = "qzzzq1@gmail.com"
-    gem.homepage = "http://github.com/aberant/ruby_beer_helper"
+    gem.homepage = "http://github.com/aberant/ruby-beer-helper"
     gem.authors = ["colin harris"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "yard", ">= 0"
